@@ -1,0 +1,13 @@
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\StorageHelper.exe.config
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\StorageHelper.exe
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\StorageHelper.pdb
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\obj\Debug\StorageHelper.csprojResolveAssemblyReference.cache
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\obj\Debug\StorageHelper.exe
+D:\Desktop\E\Pavan\PR\Read\playground\Azure\Storage\StorageHelper\StorageHelper\obj\Debug\StorageHelper.pdb
