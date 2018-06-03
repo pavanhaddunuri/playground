@@ -52,6 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity\CustomerIndia.cs" />
+    <Compile Include="Helpers\BlobHelper.cs" />
+    <Compile Include="Helpers\QueueHelper.cs" />
+    <Compile Include="Helpers\TableHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
